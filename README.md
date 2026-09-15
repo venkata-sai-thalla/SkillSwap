@@ -1,4 +1,3 @@
-# SkillSwap
 🤝 SkillSwap
 
 Learn. Teach. Connect. Exchange Skills.
